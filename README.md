@@ -47,29 +47,6 @@
 
 `Azure (App Service, Functions, Application Insights)` `AWS` `Docker` `Terraform` `GitHub Actions` `n8n` `Playwright`
 
----
-
-### 💼 Work Experience
-
-#### **Market-i Research Consultancy** — Full-Stack & AI Engineer
-📅 Jan 2025 - Present | 📍 Dubai, UAE
-- Building LLM features for market research platform serving enterprise clients in UAE
-- Implemented RAG pipelines with Azure OpenAI, pgvector & LangChain for 500+ documents, enabling semantic search and Q&A
-- Developed full-stack features with .NET Core, Angular & PostgreSQL, improving delivery speed by 40% with structured outputs and prompt versioning
-
-#### **Intelpeek** — Full-Stack Developer
-📅 Jun 2023 - Jan 2025 | 📍 Dubai, UAE
-- Built restaurant ordering products with React, Next.js & Node.js serving 10k+ daily orders
-- Integrated vision models for document extraction and automated workflows using Azure OpenAI
-- Led migration to Azure App Services with Docker & Terraform, reducing infra costs by 30%
-
-#### **VAI Marketing** — Software Engineering Intern
-📅 Nov 2022 - Jun 2023 | 📍 Dubai, UAE
-- Developed internal tools with C# and ASP.NET Core for marketing automation
-- Automated lead workflows with Playwright & n8n, saving 15+ hours weekly
-
----
-
 ### 🚀 Projects
 
 #### 1. [Queryline](https://nl2sqlai.netlify.app) — Natural Language to SQL
