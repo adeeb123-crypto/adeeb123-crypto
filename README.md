@@ -72,8 +72,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/adeeb-waiz">
-    <img src="https://github-readme-stats.vercel.app/api?username=adeeb-waiz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165" />
+  <a href="https://github.com/adeeb123-crypto">
+    <img src="https://github-readme-stats.vercel.app/api?username=adeeb123-crypto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=adeeb-waiz&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
   </a>
 </p>
