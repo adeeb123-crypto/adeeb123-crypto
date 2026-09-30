@@ -73,17 +73,16 @@
 
 <p align="center">
   <a href="https://github.com/adeeb123-crypto">
-    <img src="https://github-readme-stats.vercel.app/api?username=adeeb123-crypto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=adeeb123-crypto&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeeb123-crypto&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adeeb123-crypto&theme=tokyonight&no-frame=true&column=7&margin-w=15"/>
+
 </p>
 
 ---
